@@ -4,6 +4,6 @@ using namespace std;
 int main()
 {
 	cout << "Hello World" << endl;
-	cout << "The second commit to my repo";
+	cout << "The changed commit of my repo " << endl;
 	return 0;
 }
